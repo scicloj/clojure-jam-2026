@@ -1,0 +1,16 @@
+.aider*
+.cpcache/
+.nrepl-port
+.clj-kondo/
+.idea/libraries
+.lsp/.cache
+*.iml
+.DS_Store
+
+site/*/
+!site/images/
+tempprivate-data/
+
+temp
+
+.clojure-mcp
