@@ -26,6 +26,11 @@
                :style "height: 20px; width: auto;"}])])]])
 
 ;; # Submit Your Proposal
+
+;; ::: {.callout-warning}
+;; ## 🚧 DRAFT
+;; This site is currently under development. Information may change.
+;; :::
 ;; 
 ;; Clojure Jam celebrates creative expression through code. We're looking for talks and workshops that explore the artistic, musical, and visual possibilities of programming in Clojure.
 ;; 

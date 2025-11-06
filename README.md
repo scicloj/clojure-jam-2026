@@ -1,5 +1,7 @@
 # clojure-jam
 
+> 🚧 **DRAFT** - This site is currently under development. Information may change.
+
 This is the website project for Clojure Jam 2026, a creative coding festival celebrating music, generative art, and creative visualization in Clojure.
 
 It is developed as a data-driven [Quarto Website](https://quarto.org/docs/websites/) using Clojure and Clay. Content pages are generated from Clojure source files in the `pages/` directory, with conference data stored in `info.edn`.

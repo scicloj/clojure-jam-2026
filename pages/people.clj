@@ -28,6 +28,11 @@
 
 ;; # People
 
+;; ::: {.callout-warning}
+;; ## 🚧 DRAFT
+;; This site is currently under development. Information may change.
+;; :::
+
 ;; Meet the creative coders, speakers, and organizers of Clojure Jam!
 
 ;; ## Speakers

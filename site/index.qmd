@@ -29,6 +29,12 @@ open-graph: {title: Clojure Jam 2026, image: 'https://scicloj.github.io/clojure-
 ```
 
 
+::: {.callout-warning}
+
+## 🚧 DRAFT
+This site is currently under development. Information may change.
+:::
+
 
 ## What is Creative Coding?
 

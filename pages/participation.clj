@@ -27,6 +27,11 @@
 
 ;; # How to Participate
 
+;; ::: {.callout-warning}
+;; ## 🚧 DRAFT
+;; This site is currently under development. Information may change.
+;; :::
+
 ;; Welcome to Clojure Jam - a festival celebrating creative coding in Clojure! Here's how to get involved.
 
 ;; ## For Attendees

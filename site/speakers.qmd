@@ -21,6 +21,12 @@ format:
 
 # Submit Your Proposal
 
+::: {.callout-warning}
+
+## 🚧 DRAFT
+This site is currently under development. Information may change.
+:::
+
 Clojure Jam celebrates creative expression through code. We're looking for talks and workshops that explore the artistic, musical, and visual possibilities of programming in Clojure.
 
 Whether you're generating fractals, synthesizing music, visualizing data in new ways, or exploring any other form of creative coding, we want to see what you're building!

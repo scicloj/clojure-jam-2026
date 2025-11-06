@@ -59,6 +59,11 @@
     "This festival brings together artists, musicians, data enthusiasts, and creative coders to share projects, "
     "learn new techniques, and explore the boundaries of what's possible with Clojure's creative coding ecosystem."]]])
 
+;; ::: {.callout-warning}
+;; ## 🚧 DRAFT
+;; This site is currently under development. Information may change.
+;; :::
+
 ;; ## What is Creative Coding?
 
 ;; Creative coding is the practice of writing code to create expressive, artistic works rather than functional applications. It's where programming meets art, music, and visual design.
