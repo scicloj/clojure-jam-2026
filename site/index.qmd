@@ -25,7 +25,7 @@ open-graph: {title: Clojure Jam 2026, image: 'https://scicloj.github.io/clojure-
 
 
 ```{=html}
-<div><div class="main-page"><div class="conf-intro"><div class="conf-intro__title-wrapper"><h1 class="conf-intro__title">Clojure Jam</h1><div class="conf-intro__subtitle">A Festival of Creative Coding in Clojure</div></div></div><div class="conf-intro__description">Clojure Jam is an online creative coding festival organized by <a href="https://scicloj.github.io/">Scicloj</a>. Join us in March 2026 for a celebration of <strong>music</strong>, <strong>generative art</strong>, <strong>creative visualization</strong>, and all forms of creative expression through code.<br /><br />This festival brings together artists, musicians, data enthusiasts, and creative coders to share projects, learn new techniques, and explore the boundaries of what's possible with Clojure's creative coding ecosystem.</div></div></div>
+<div><div class="main-page"><div class="conf-intro"><div class="conf-intro__title-wrapper"><h1 class="conf-intro__title">Clojure Jam 2026</h1><div class="conf-intro__subtitle">A Festival of Creative Coding in Clojure</div></div></div><div class="conf-intro__description">Clojure Jam is an online creative coding festival organized by <a href="https://scicloj.github.io/">Scicloj</a>. Join us in March 2026 for a celebration of <strong>music</strong>, <strong>generative art</strong>, <strong>creative visualization</strong>, and all forms of creative expression through code.<br /><br />This festival brings together artists, musicians, data enthusiasts, and creative coders to share projects, learn new techniques, and explore the boundaries of what's possible with Clojure's creative coding ecosystem.</div></div></div>
 ```
 
 

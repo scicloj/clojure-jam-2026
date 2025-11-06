@@ -8,7 +8,7 @@ format:
       - custom.scss
   
 website:
-  title: "Clojure Jam"
+  title: "Clojure Jam 2026"
   description: "A Festival of Creative Coding in Clojure by Scicloj"
   site-url: "https://scicloj.github.io/clojure-jam"
   open-graph: true

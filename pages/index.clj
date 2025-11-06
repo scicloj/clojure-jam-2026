@@ -43,7 +43,7 @@
    [:div {:class "conf-intro"}
 
     [:div {:class "conf-intro__title-wrapper"}
-     [:h1 {:class "conf-intro__title"} "Clojure Jam"]
+     [:h1 {:class "conf-intro__title"} "Clojure Jam 2026"]
      [:div {:class "conf-intro__subtitle"} "A Festival of Creative Coding in Clojure"]]]
 
    ;; Description
