@@ -22,4 +22,3 @@ To modify conference data (when we have speakers, sessions, etc.), edit `info.ed
 The site is automatically published using a GitHub Actions workflow(`.github/workflows/publish.yml`).
 Whenever a new commit is pushed to the main branch, the workflow builds the updated site and deploys it to the `gh-pages` branch.
 The live site is available at: https://scicloj.github.io/clojure-jam/
-# clojure-jam-2026

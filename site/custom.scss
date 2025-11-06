@@ -1,0 +1,386 @@
+/*-- scss:defaults --*/
+
+/*-- scss:rules --*/
+
+// Hide title on index page (where we have custom header)
+#title-block-header.quarto-title-block {
+  display: none !important;
+}
+    
+// variables
+// color variables
+$primary-blue: #4299e1;
+$primary-green: #48bb78;
+$on-primary: #fff;
+$primary-blue-container: #D3E3FB;
+$tertiary: #6d6f73;
+$primary-blue-green-gradient-horizontal: linear-gradient(90deg, $primary-blue, $primary-green);
+$primary-blue-green-gradient-vertical: linear-gradient(180deg, $primary-blue, $primary-green);
+$default-box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 10px;
+$default-border-radius: 5px;
+
+// default link styles that has no specific class specified
+a:not([class]) {
+  color: $primary-blue;
+  position: relative;
+  font-weight:600;
+  text-decoration: none;
+  transition: all 0.3s ease;
+
+  &::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    bottom: -2px;
+    left: 0;
+    background: $primary-blue-green-gradient-horizontal;
+    transform: scaleX(0);
+    transform-origin: right;
+    transition: transform .3s ease;
+  }
+
+  &:hover::after {
+    transform-origin: left;
+    transform: scaleX(1);
+  }
+}
+
+// default button styles
+@mixin btn-base {
+  color: $on-primary;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: $default-border-radius;
+  font-weight: bold;
+  transition: all .3s ease;
+  box-shadow: $default-box-shadow;
+
+  &:hover {
+    color: $on-primary;
+    transform: translateY(-2px);
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 15px;
+  }
+
+  &:active {
+    transform: translateY(0);
+    box-shadow: $default-box-shadow;
+  }
+}
+
+// button styles
+.btn {
+  @include btn-base;
+  background: $primary-blue;
+
+  &.btn-gradient {
+    background: $primary-blue-green-gradient-horizontal;
+  }
+
+  &.btn-vertical-gradient {
+    background: $primary-blue-green-gradient-vertical;
+  }
+
+  &.btn-large {
+    font-size: 1.2rem;
+    padding: 0.8rem 1.2rem;
+  }
+
+  &.btn-gradient--vertical {
+    background: $primary-blue-green-gradient-vertical;
+  }
+}
+
+// header styles
+// h2
+h2 {
+  margin-bottom: 2rem;
+  position: relative;
+  padding-bottom: 1rem;
+  border-bottom: none;
+}
+
+h2::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: $primary-blue-green-gradient-horizontal;
+  width: 60px;
+  height: 4px;
+  border-radius: 2px;
+}
+
+// gradient table styles
+table.gradient-table  {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+  border-radius: $default-border-radius;
+  overflow: hidden;
+  box-shadow: $default-box-shadow;
+
+  tr:hover {
+    background: #ebf8ff;
+    transform: scale(1.01);
+    transition: all 0.3s ease;
+  }
+
+  tr.header {
+    background: $primary-blue-green-gradient-horizontal;
+    color: #fff !important;
+    text-align: left;
+    font-weight: 600;
+    font-size: 1.2rem;
+  }
+
+  th {
+    padding: 1.5rem 1rem;
+  }
+
+  th:not(:first-child) {
+    position: relative;
+
+    &::before {
+      content: '';
+      position: absolute;
+      top: 25%;
+      left: 0;
+      width: 1px;
+      height: 50%;
+      background-color: $on-primary;
+    }
+  }
+
+  td {
+    padding: 1rem;
+  }
+}
+
+/**
+ * Any custom styles goes here.
+ */
+
+// people gallery styles
+.people-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+  margin: 2rem 0;
+  padding: 1.5rem;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  border-radius: 12px;
+
+  .person-photo {
+    border-radius: 50%;
+    object-fit: cover;
+    transition: transform 0.2s ease;
+    border: 2px solid #fff;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+
+    &:hover {
+      transform: scale(1.15);
+    }
+
+    &:focus {
+      outline: 3px solid $primary-blue;
+      outline-offset: 2px;
+      transform: scale(1.15);
+    }
+  }
+}
+
+// Skip navigation link
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background: #000;
+  color: white;
+  padding: 8px 16px;
+  z-index: 100;
+  text-decoration: none;
+  font-weight: bold;
+
+  &:focus {
+    top: 0;
+  }
+}
+
+// main page styles
+.main-page {
+
+  .conf-intro {
+    display: flex;
+    flex-direction: column;;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+
+    &__scicloj-logo {
+      width: 50%;
+      max-width: 200px;
+      margin-right: 2rem;
+    }
+
+    &__title {
+      font-size: 3rem;
+      font-weight: 700;
+      background: $primary-blue-green-gradient-horizontal;
+      margin: 0;
+      -webkit-text-fill-color: transparent;
+      -webkit-background-clip: text;
+      background-clip: text;
+    }
+
+    &__subtitle {
+      font-size: 1.5rem;
+      font-weight: 500;
+      color: $tertiary;
+    }
+
+    &__description {
+      margin: 2rem 0;
+
+      p {
+        font-size: 1.2rem;
+        line-height: 1.6;
+      }
+    }
+  }
+}
+
+// Session type colors and styles
+$session-type-talk: #E3F2FD;           // Light blue
+$session-type-tutorial: #FFF3E0;       // Light orange
+$session-type-discussion: #F3E5F5;     // Light purple
+$session-type-practice: #E8F5E9;       // Light green
+$session-type-community: #FFF9E6;      // Light warm yellow
+
+.session-type-talk {
+  background-color: $session-type-talk !important;
+}
+
+.session-type-tutorial {
+  background-color: $session-type-tutorial !important;
+}
+
+.session-type-discussion {
+  background-color: $session-type-discussion !important;
+}
+
+.session-type-practice {
+  background-color: $session-type-practice !important;
+}
+
+.session-type-community {
+  background-color: $session-type-community !important;
+}
+
+// Session type legend
+.session-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 1.5rem 0;
+  padding: 1rem;
+  background: #fafafa;
+  border-radius: 8px;
+  border: 1px solid #e0e0e0;
+  justify-content: center;
+
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.95rem;
+
+    .legend-icon {
+      font-size: 1.2rem;
+    }
+
+    .legend-color {
+      width: 40px;
+      height: 24px;
+      border-radius: 4px;
+      border: 1px solid #ddd;
+    }
+
+    .legend-label {
+      font-weight: 500;
+    }
+  }
+}
+
+// Session card hover effects
+.session-card {
+  transition: all 0.3s ease;
+  border-radius: 8px;
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 2px 6px;
+
+  &:hover {
+    transform: translateY(-3px);
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 6px 20px;
+    border-left-color: $primary-blue !important;
+  }
+
+  details {
+    summary {
+      cursor: pointer;
+      transition: background-color 0.2s ease;
+
+      &:hover {
+        background-color: rgba($primary-blue, 0.05);
+      }
+    }
+  }
+}
+
+// Person card hover effects (for people page)
+.person-card {
+  transition: all 0.3s ease;
+  border-radius: 8px;
+  padding: 1.5rem;
+  border: 1px solid #e0e0e0;
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 2px 6px;
+
+  &:hover {
+    transform: translateY(-3px);
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 6px 20px;
+    border-color: $primary-blue;
+  }
+}
+
+// Schedule table hover effects
+table.schedule-table {
+  tbody tr {
+    transition: all 0.2s ease;
+
+    &:hover {
+      background-color: rgba(255, 235, 59, 0.15) !important; // Light yellow hover
+      transform: scale(1.01);
+      box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 8px;
+    }
+  }
+
+  // Also style session cells on hover
+  .session-cell {
+    transition: all 0.2s ease;
+
+    &:hover {
+      background-color: rgba(255, 235, 59, 0.25) !important; // Slightly stronger yellow
+    }
+  }
+}
+
+// Mobile schedule card hover effects
+.mobile-time-slot {
+  transition: all 0.3s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    border-color: $primary-blue !important;
+  }
+}

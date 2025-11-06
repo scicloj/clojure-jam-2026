@@ -1,0 +1,25 @@
+project:
+  type: website
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - custom.scss
+  
+website:
+  title: "Clojure Jam"
+  description: "A Festival of Creative Coding in Clojure by Scicloj"
+  site-url: "https://scicloj.github.io/clojure-jam"
+  open-graph: true
+  favicon: "images/sci-cloj-logo-transparent.png"
+  image: "https://scicloj.github.io/clojure-jam/images/sci-cloj-logo-transparent.png"
+  navbar:
+    logo: "images/sci-cloj-logo-transparent.svg"
+    search: true
+    right:
+    - {href: index.qmd, text: Home}
+    - {href: speakers.qmd, text: Submit Proposal}
+    - {href: participation.qmd, text: Participate}
+    - {href: sessions.qmd, text: Sessions}
+    - {href: people.qmd, text: People}

@@ -1,0 +1,152 @@
+---
+format:
+  html: {toc: false, toc-depth: 4, theme: cosmo}
+
+---
+<style></style><style>.printedClojure .sourceCode {
+  background-color: transparent;
+  border-style: none;
+}
+</style><style>.clay-limit-image-width .clay-image {max-width: 100%}
+.clay-side-by-side .sourceCode {margin: 0}
+.clay-side-by-side {margin: 1em 0}
+</style>
+<script src="speakers_files/md-default0.js" type="text/javascript"></script><script src="speakers_files/md-default1.js" type="text/javascript"></script>
+
+```{=html}
+<div style="display: flex; justify-content: flex-end; margin: 1rem 0; padding: 0.5rem; background: #f8f9fa; border-radius: 6px; border: 1px solid #e0e0e0;"><div style="display: flex; align-items: center; gap: 0.5rem;"><span style="font-size: 0.9rem; color: #666;">Supported by: </span><a href="./index.html#supporting-companies" key="techascent" style="display: inline-flex; align-items: center; gap: 0.5rem; margin-left: 0.5rem; text-decoration: none;"><img alt="TechAscent mark" src="images/ta-mark-red.svg" style="height: 20px; width: auto;" /><img alt="TechAscent logo" src="images/ta-type.svg" style="height: 20px; width: auto;" /></a></div></div>
+```
+
+
+
+# Submit Your Proposal
+
+Clojure Jam celebrates creative expression through code. We're looking for talks and workshops that explore the artistic, musical, and visual possibilities of programming in Clojure.
+
+Whether you're generating fractals, synthesizing music, visualizing data in new ways, or exploring any other form of creative coding, we want to see what you're building!
+
+
+## What We're Looking For
+
+
+### Topics
+
+We're especially interested in (but not limited to):
+
+
+- Music & Sound Synthesis
+- Generative Art & Graphics
+- Creative Data Visualization
+- Randomness & Procedural Generation
+- Geometry & Recursive Geometry
+- Fractals & Self-Similarity
+- Order & Chaos / Emergence
+- Signal Processing
+- Creative use of real-world data
+- Interactive Installations
+- Live Coding Performances
+- Algorithmic Composition
+- Shader Programming
+- Physics Simulations
+
+
+### Format Options
+
+- **Talks** (30-45 minutes) - Showcase your creative projects, techniques, or explorations
+- **Workshops** (60-90 minutes) - Teach hands-on creative coding skills
+- **Live Coding** (30-45 minutes) - Demonstrate real-time creative coding
+
+
+## Proposal Guidelines
+
+
+### Core Requirements
+
+**1. Clojure Civitas Post Commitment** ⭐
+
+**This is essential:** All speakers commit to writing a [Clojure Civitas](https://clojurecivitas.github.io/) post documenting their work.
+
+Your Civitas post is how we build a lasting creative coding knowledge base for the Clojure community. It allows others to:
+
+- Reproduce your creative techniques
+- Build upon your ideas
+- Learn from your process
+- Explore the code that creates your art/music/visualizations
+
+We recommend Timothy Pratley's 🎥 [tutorial](https://www.youtube.com/watch?v=lceazLPcSZg) to get started with Clojure Civitas.
+
+**2. Proposal Content**
+
+Your proposal should include:
+
+- **Title** - Clear and engaging
+- **Abstract** (150-300 words) - What will you demonstrate or teach?
+- **Proof of Concept** - A draft Civitas post showing your work in progress
+- **Format** - Talk, workshop, or live coding session
+- **Duration** - How long you need
+
+**3. Audience**
+
+Aim for general Clojure programmers. Some familiarity with creative coding is fine, but your talk should be accessible to those new to the specific domain (music, art, etc.). We especially welcome talks that introduce creative coding concepts to Clojure developers!
+
+
+### What Makes a Great Proposal
+
+✨ **Show, Don't Just Tell** - Include visual examples, sound samples, or code snippets in your proposal
+
+🎨 **Creative Process** - Share your creative journey, not just the final result. How did you arrive at this technique? What experiments didn't work?
+
+🛠️ **Practical & Reproducible** - Others should be able to recreate and build upon your work
+
+🌱 **Beginner-Friendly** - Even advanced topics can be made accessible with good explanation
+
+💡 **Novel Approaches** - New uses of existing libraries, creative combinations of tools, or fresh perspectives
+
+
+## Libraries & Tools
+
+We're especially interested in creative uses of:
+
+
+- Fastmath - mathematics for creative coding
+- Clojure2D - 2D graphics and image processing
+- dtype-next - efficient numerical computing
+- Clay - literate programming and documentation
+- Scittle - run Clojure in the browser via SCI
+
+But don't feel limited! If you're using other libraries creatively, we want to hear about it.
+
+
+## Collaboration Welcome
+
+- **Team presentations** are encouraged
+- **Cross-disciplinary collaborations** with artists, musicians, or designers are highly valued
+- **New to public speaking?** We can help pair you with experienced co-presenters
+- **Have a project idea but don't want to present?** We can help find someone to present your work
+
+
+## Timeline
+
+
+- **Call for Proposals:** Now open!
+- **Submission Deadline:** January 31, 2026
+- **Speaker Notification:** February 15, 2026
+- **Festival Dates:** March 2026 (specific dates TBD)
+
+
+## How to Submit
+
+We're still setting up the submission process. In the meantime:
+
+1. Join the [Clojurians Zulip](https://scicloj.github.io/docs/community/chat/)
+2. Reach out in the #clojure-jam channel (coming soon) or [contact Scicloj directly](https://scicloj.github.io/docs/community/contact/)
+3. Share your idea and we'll help you develop it into a proposal
+
+We're here to help you shape your ideas and create amazing creative coding content for the community!
+
+
+## Questions?
+
+Have questions about what makes a good proposal? Wondering if your idea fits? Want to brainstorm?
+
+[Let us talk](https://scicloj.github.io/docs/community/contact/){class="btn btn-gradient" target="_blank"}

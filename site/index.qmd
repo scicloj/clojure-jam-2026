@@ -1,0 +1,97 @@
+---
+format:
+  html: {toc: false, toc-depth: 4, theme: cosmo}
+description: Clojure Jam - A Festival of Creative Coding in Clojure - March 2026
+title-block-style: none
+image: https://scicloj.github.io/clojure-jam/images/sci-cloj-logo-transparent.png
+twitter-card: {title: Clojure Jam 2026, image: 'https://scicloj.github.io/clojure-jam/images/sci-cloj-logo-transparent.png'}
+open-graph: {title: Clojure Jam 2026, image: 'https://scicloj.github.io/clojure-jam/images/sci-cloj-logo-transparent.png'}
+
+---
+<style></style><style>.printedClojure .sourceCode {
+  background-color: transparent;
+  border-style: none;
+}
+</style><style>.clay-limit-image-width .clay-image {max-width: 100%}
+.clay-side-by-side .sourceCode {margin: 0}
+.clay-side-by-side {margin: 1em 0}
+</style>
+<script src="index_files/md-default0.js" type="text/javascript"></script><script src="index_files/md-default1.js" type="text/javascript"></script>
+
+```{=html}
+<div style="display: flex; justify-content: flex-end; margin: 1rem 0; padding: 0.5rem; background: #f8f9fa; border-radius: 6px; border: 1px solid #e0e0e0;"><div style="display: flex; align-items: center; gap: 0.5rem;"><span style="font-size: 0.9rem; color: #666;">Supported by: </span><a href="#supporting-companies" key="techascent" style="display: inline-flex; align-items: center; gap: 0.5rem; margin-left: 0.5rem; text-decoration: none;"><img alt="TechAscent mark" src="images/ta-mark-red.svg" style="height: 20px; width: auto;" /><img alt="TechAscent logo" src="images/ta-type.svg" style="height: 20px; width: auto;" /></a></div></div>
+```
+
+
+
+```{=html}
+<div><div class="main-page"><div class="conf-intro"><div class="conf-intro__title-wrapper"><h1 class="conf-intro__title">Clojure Jam</h1><div class="conf-intro__subtitle">A Festival of Creative Coding in Clojure</div></div></div><div class="conf-intro__description">Clojure Jam is an online creative coding festival organized by <a href="https://scicloj.github.io/">Scicloj</a>. Join us in March 2026 for a celebration of <strong>music</strong>, <strong>generative art</strong>, <strong>creative visualization</strong>, and all forms of creative expression through code.<br /><br />This festival brings together artists, musicians, data enthusiasts, and creative coders to share projects, learn new techniques, and explore the boundaries of what's possible with Clojure's creative coding ecosystem.</div></div></div>
+```
+
+
+
+## What is Creative Coding?
+
+Creative coding is the practice of writing code to create expressive, artistic works rather than functional applications. It's where programming meets art, music, and visual design.
+
+At Clojure Jam, we celebrate music & sound synthesis, generative art, creative data visualization, interactive installations, and explorations of order & chaos. See our [Sessions](./sessions.html) page to learn more about the topics we're exploring.
+
+
+## When & Where
+
+- **📅 Date:** March 2026 (specific dates TBD)
+- **🌐 Format:** Online via Zoom
+- **💰 Cost:** Free!
+- **🎟️ Registration:** Coming soon
+
+
+## Timeline
+
+
+- **Call for Proposals:** Now open!
+- **Submission Deadline:** January 31, 2026
+- **Speaker Notification:** February 15, 2026
+- **Festival Dates:** March 2026 (specific dates TBD)
+
+
+## Call for Proposals
+
+We're actively seeking creative coding talks and workshops! Whether you're working with music synthesis, generative art, data visualization, or any other form of creative expression in Clojure, we want to hear from you.
+
+**Important:** All speakers commit to writing a [Clojure Civitas](https://clojurecivitas.github.io/) post documenting their work!
+
+See our [Submit Proposal](./speakers.html) page for full details on topics, formats, and submission guidelines.
+
+
+```{=html}
+<div style="text-align: center; margin: 2rem 0;"><a aria-label="Submit your proposal for Clojure Jam" class="btn btn-gradient" href="./speakers.html" style="display: inline-block; text-decoration: none; font-size: 1.1rem; padding: 0.75rem 1.5rem;">🎨 Submit Your Proposal</a></div>
+```
+
+
+
+## Get Involved
+
+Whether you want to attend, present, or just connect with fellow creative coders, there are many ways to participate. See our [Participation Guide](./participation.html) for details on registration, community chat, and more.
+
+
+## Code of Conduct
+
+We are committed to providing a welcoming and inclusive environment for all participants. Please read our [Code of Conduct](./code_of_conduct.html).
+
+
+## Supporting Companies {#supporting-companies}
+
+We are grateful to the following companies for their support of Clojure Jam:
+
+
+```{=html}
+<div style="margin: 2rem 0; padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border: 1px solid #e0e0e0;"><div key="techascent" style="margin-bottom: 1rem; display: flex; align-items: center; gap: 1.5rem;"><div style="display: flex; align-items: center; gap: 0.75rem; flex-shrink: 0;"><a href="https://techascent.com" target="_blank"><img alt="TechAscent mark" src="images/ta-mark-red.svg" style="height: 30px; width: auto;" /></a><a href="https://techascent.com" target="_blank"><img alt="TechAscent logo" src="images/ta-type.svg" style="height: 30px; width: auto;" /></a></div><div><h3 style="margin: 0 0 0.5rem 0;"><a href="https://techascent.com" style="color: #4299e1; text-decoration: none;" target="_blank">TechAscent</a></h3><p style="margin: 0; color: #666;">High-performance computing and data science tools for Clojure</p></div></div></div>
+```
+
+
+**Interested in supporting Clojure Jam?** We welcome companies who share our vision of creative exploration and growing the Clojure ecosystem. Please [contact us](https://scicloj.github.io/docs/community/contact/) to discuss how your company can get involved.
+
+
+## Contact
+
+[Any questions? Let us talk](https://scicloj.github.io/docs/community/contact/){class="btn btn-gradient" target="_blank"}
