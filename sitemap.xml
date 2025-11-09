@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://scicloj.github.io/clojure-jam/macroexpand_noj.html</loc>
-    <lastmod>2025-11-06T23:49:50.289Z</lastmod>
+    <loc>https://scicloj.github.io/clojure-jam/speakers.html</loc>
+    <lastmod>2025-11-09T00:09:55.619Z</lastmod>
   </url>
   <url>
-    <loc>https://scicloj.github.io/clojure-jam/macroexpand_deep.html</loc>
-    <lastmod>2025-11-06T23:49:50.289Z</lastmod>
+    <loc>https://scicloj.github.io/clojure-jam/macroexpand_noj.html</loc>
+    <lastmod>2025-11-09T00:09:23.634Z</lastmod>
   </url>
   <url>
     <loc>https://scicloj.github.io/clojure-jam/code_of_conduct.html</loc>
-    <lastmod>2025-11-06T23:49:50.236Z</lastmod>
+    <lastmod>2025-11-09T00:09:55.439Z</lastmod>
   </url>
   <url>
     <loc>https://scicloj.github.io/clojure-jam/participation.html</loc>
-    <lastmod>2025-11-06T23:49:50.289Z</lastmod>
-  </url>
-  <url>
-    <loc>https://scicloj.github.io/clojure-jam/people.html</loc>
-    <lastmod>2025-11-06T23:49:50.289Z</lastmod>
-  </url>
-  <url>
-    <loc>https://scicloj.github.io/clojure-jam/speakers.html</loc>
-    <lastmod>2025-11-06T23:49:50.289Z</lastmod>
+    <lastmod>2025-11-09T00:09:55.582Z</lastmod>
   </url>
   <url>
     <loc>https://scicloj.github.io/clojure-jam/sessions.html</loc>
-    <lastmod>2025-11-06T23:49:50.289Z</lastmod>
+    <lastmod>2025-11-09T00:09:55.548Z</lastmod>
   </url>
   <url>
     <loc>https://scicloj.github.io/clojure-jam/index.html</loc>
-    <lastmod>2025-11-06T23:49:50.289Z</lastmod>
+    <lastmod>2025-11-09T00:09:55.516Z</lastmod>
+  </url>
+  <url>
+    <loc>https://scicloj.github.io/clojure-jam/macroexpand_deep.html</loc>
+    <lastmod>2025-11-09T00:09:23.634Z</lastmod>
+  </url>
+  <url>
+    <loc>https://scicloj.github.io/clojure-jam/people.html</loc>
+    <lastmod>2025-11-09T00:09:55.373Z</lastmod>
   </url>
 </urlset>
