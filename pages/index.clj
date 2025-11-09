@@ -1,5 +1,5 @@
 ^{:kindly/hide-code true
-  :clay {:quarto {:description "Clojure Jam - A Festival of Creative Coding in Clojure - March 2026"
+  :clay {:quarto {:description "Clojure Jam - A Festival of Creative Coding in Clojure - April 2026"
                   :title-block-style "none"
                   :image "https://scicloj.github.io/clojure-jam/images/sci-cloj-logo-transparent.png"
                   :twitter-card {:title "Clojure Jam 2026"
@@ -50,7 +50,7 @@
    [:div {:class "conf-intro__description"}
     "Clojure Jam is an online creative coding festival organized by "
     [:a {:href "https://scicloj.github.io/"} "Scicloj"]
-    ". Join us in March 2026 for a celebration of "
+    ". Join us in April 2026 for a celebration of "
     [:strong "music"] ", " [:strong "generative art"] ", " [:strong "creative visualization"]
     ", and all forms of creative expression through code."
 
@@ -72,7 +72,7 @@
 
 ;; ## When & Where
 ;;
-;; - **📅 Date:** March 2026 (specific dates TBD)
+;; - **📅 Date:** April 2026 (specific dates TBD)
 ;; - **🌐 Format:** Online via Zoom
 ;; - **💰 Cost:** Free!
 ;; - **🎟️ Registration:** Coming soon
