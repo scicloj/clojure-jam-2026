@@ -64,15 +64,22 @@
 ;; This site is currently under development. Information may change.
 ;; :::
 
-;; ## What is Creative Coding?
+;; ## Early Announced Speakers
 
-;; Creative coding is the practice of writing code to create expressive, artistic works rather than functional applications. It's where programming meets art, music, and visual design.
-
-;; At Clojure Jam, we celebrate music & sound synthesis, generative art, creative data visualization, interactive installations, and explorations of order & chaos. See our [Sessions](./sessions.html) page to learn more about the topics we're exploring.
+^:kindly/hide-code
+(kind/hiccup
+ [:div {:style "display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap; margin: 2rem 0;"}
+  (for [[speaker-key speaker-data] (:people conference-data)]
+    [:div {:key (name speaker-key)
+           :style "text-align: center; flex: 0 1 200px;"}
+     [:img {:src (:image speaker-data)
+            :alt (:name speaker-data)
+            :style "width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem; border: 3px solid #e0e0e0;"}]
+     [:h3 {:style "margin: 0; font-size: 1.1rem;"} (:name speaker-data)]])])
 
 ;; ## When & Where
 ;;
-;; - **📅 Date:** April 2026 (specific dates TBD)
+;; - **📅 Date:** April 18-19 & 25-26, 2026
 ;; - **🌐 Format:** Online via Zoom
 ;; - **💰 Cost:** Free!
 ;; - **🎟️ Registration:** Coming soon
@@ -87,18 +94,11 @@
         "\n- **Speaker Notification:** " (:speaker-notification timeline)
         "\n- **Festival Dates:** " (:festival-dates timeline))))
 
-;; ## Early Announced Speakers
+;; ## What is Creative Coding?
 
-^:kindly/hide-code
-(kind/hiccup
- [:div {:style "display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap; margin: 2rem 0;"}
-  (for [[speaker-key speaker-data] (:people conference-data)]
-    [:div {:key (name speaker-key)
-           :style "text-align: center; flex: 0 1 200px;"}
-     [:img {:src (:image speaker-data)
-            :alt (:name speaker-data)
-            :style "width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem; border: 3px solid #e0e0e0;"}]
-     [:h3 {:style "margin: 0; font-size: 1.1rem;"} (:name speaker-data)]])])
+;; Creative coding is the practice of writing code to create expressive, artistic works rather than functional applications. It's where programming meets art, music, and visual design.
+
+;; At Clojure Jam, we celebrate music & sound synthesis, generative art, creative data visualization, interactive installations, and explorations of order & chaos. See our [Sessions](./sessions.html) page to learn more about the topics we're exploring.
 
 ;; ## Call for Proposals
 
