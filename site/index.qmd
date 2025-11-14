@@ -60,6 +60,15 @@ At Clojure Jam, we celebrate music & sound synthesis, generative art, creative d
 - **Festival Dates:** April 18-19 & 25-26, 2026
 
 
+## Early Announced Speakers
+
+
+```{=html}
+<div style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap; margin: 2rem 0;"><div key="siyoung-byun" style="text-align: center; flex: 0 1 200px;"><img alt="Siyoung Byun" src="https://scicloj.github.io/macroexpand-2025/images/siyoung-byun.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem; border: 3px solid #e0e0e0;" /><h3 style="margin: 0; font-size: 1.1rem;">Siyoung Byun</h3></div><div key="iain-wood" style="text-align: center; flex: 0 1 200px;"><img alt="Iain Wood" src="https://scicloj.github.io/macroexpand-2025/images/iain-wood.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem; border: 3px solid #e0e0e0;" /><h3 style="margin: 0; font-size: 1.1rem;">Iain Wood</h3></div><div key="generateme" style="text-align: center; flex: 0 1 200px;"><img alt="Tomasz Sulej (Generateme)" src="https://avatars.githubusercontent.com/u/38646601?v=4" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem; border: 3px solid #e0e0e0;" /><h3 style="margin: 0; font-size: 1.1rem;">Tomasz Sulej (Generateme)</h3></div></div>
+```
+
+
+
 ## Call for Proposals
 
 We're actively seeking creative coding talks and workshops! Whether you're working with music synthesis, generative art, data visualization, or any other form of creative expression in Clojure, we want to hear from you.

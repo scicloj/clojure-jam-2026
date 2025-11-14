@@ -87,6 +87,19 @@
         "\n- **Speaker Notification:** " (:speaker-notification timeline)
         "\n- **Festival Dates:** " (:festival-dates timeline))))
 
+;; ## Early Announced Speakers
+
+^:kindly/hide-code
+(kind/hiccup
+ [:div {:style "display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap; margin: 2rem 0;"}
+  (for [[speaker-key speaker-data] (:people conference-data)]
+    [:div {:key (name speaker-key)
+           :style "text-align: center; flex: 0 1 200px;"}
+     [:img {:src (:image speaker-data)
+            :alt (:name speaker-data)
+            :style "width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem; border: 3px solid #e0e0e0;"}]
+     [:h3 {:style "margin: 0; font-size: 1.1rem;"} (:name speaker-data)]])])
+
 ;; ## Call for Proposals
 
 ;; We're actively seeking creative coding talks and workshops! Whether you're working with music synthesis, generative art, data visualization, or any other form of creative expression in Clojure, we want to hear from you.

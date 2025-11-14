@@ -59,8 +59,21 @@
   :live-coding "Live Coding"
   :community "Community"}
 
- ;; Will be populated as proposals are accepted
- :people {}
+ :people
+ {:siyoung-byun
+  {:name "Siyoung Byun"
+   :image "https://scicloj.github.io/macroexpand-2025/images/siyoung-byun.jpg"
+   :bio ""} ; TBD
+
+  :iain-wood
+  {:name "Iain Wood"
+   :image "https://scicloj.github.io/macroexpand-2025/images/iain-wood.jpg"
+   :bio ""} ; TBD
+
+  :generateme
+  {:name "Tomasz Sulej (Generateme)"
+   :image "https://avatars.githubusercontent.com/u/38646601?v=4"
+   :bio ""}} ; TBD
 
  ;; Will be populated as sessions are scheduled
  :sessions {}
