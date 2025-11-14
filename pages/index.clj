@@ -59,11 +59,6 @@
     "This festival brings together artists, musicians, data enthusiasts, and creative coders to share projects, "
     "learn new techniques, and explore the boundaries of what's possible with Clojure's creative coding ecosystem."]]])
 
-;; ::: {.callout-warning}
-;; ## 🚧 DRAFT
-;; This site is currently under development. Information may change.
-;; :::
-
 ;; ## Early Announced Speakers
 
 ^:kindly/hide-code

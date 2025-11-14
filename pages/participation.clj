@@ -27,11 +27,6 @@
 
 ;; # How to Participate
 
-;; ::: {.callout-warning}
-;; ## 🚧 DRAFT
-;; This site is currently under development. Information may change.
-;; :::
-
 ;; Welcome to Clojure Jam - a festival celebrating creative coding in Clojure! Here's how to get involved.
 
 ;; ## For Attendees
@@ -51,7 +46,7 @@
 ;; Connect with fellow creative coders on the [Clojurians Zulip](https://scicloj.github.io/docs/community/chat/):
 ;;
 ;; 1. Visit [clojurians.zulipchat.com](https://clojurians.zulipchat.com/) to create an account
-;; 2. Look for the **#clojure-jam** channel (coming soon)
+;; 2. Join the [#clojure-jam-2026 channel](https://clojurians.zulipchat.com/#narrow/channel/544470-clojure-jam-2026)
 ;; 3. Introduce yourself and share what creative coding interests you!
 
 ;; This is where we'll:
@@ -107,7 +102,7 @@
 
 ;; ## Questions?
 
-;; - Post in the Zulip #clojure-jam channel (coming soon)
+;; - Post in the [Zulip #clojure-jam-2026 channel](https://clojurians.zulipchat.com/#narrow/channel/544470-clojure-jam-2026)
 ;; - [Contact the Scicloj organizers](https://scicloj.github.io/docs/community/contact/)
 
 ;; ---

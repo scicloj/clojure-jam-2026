@@ -28,11 +28,6 @@
 
 ;; # Sessions
 
-;; ::: {.callout-warning}
-;; ## 🚧 DRAFT
-;; This site is currently under development. Information may change.
-;; :::
-
 ;; Sessions will be announced here once talk and workshop proposals are accepted!
 
 ;; ## Want to Present?
