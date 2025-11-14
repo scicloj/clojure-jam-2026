@@ -37,7 +37,20 @@
 
 ;; ## Speakers
 
-;; Our speaker lineup will be announced once proposals are accepted. Want to be part of it?
+;; We're excited to announce our first speakers:
+
+^:kindly/hide-code
+(kind/hiccup
+ [:div {:style "display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap; margin: 2rem 0;"}
+  (for [[speaker-key speaker-data] (:people conference-data)]
+    [:div {:key (name speaker-key)
+           :style "text-align: center; flex: 0 1 200px;"}
+     [:img {:src (:image speaker-data)
+            :alt (:name speaker-data)
+            :style "width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem; border: 3px solid #e0e0e0;"}]
+     [:h3 {:style "margin: 0; font-size: 1.1rem;"} (:name speaker-data)]])])
+
+;; More speakers will be announced as proposals are accepted. Want to join them?
 
 ;; 👉 [Submit Your Proposal](./speakers.html)
 

@@ -117,10 +117,12 @@
 ^:kindly/hide-code
 (let [timeline (:timeline conference-info)]
   (kind/md
-   (str "\n- **Call for Proposals:** " (:cfp-open timeline)
-        "\n- **Submission Deadline:** " (:cfp-deadline timeline)
-        "\n- **Speaker Notification:** " (:speaker-notification timeline)
-        "\n- **Festival Dates:** " (:festival-dates timeline))))
+   (str "\n| Event | Date |\n"
+        "|-------|------|\n"
+        "| Call for Proposals | " (:cfp-open timeline) " |\n"
+        "| Submission Deadline | " (:cfp-deadline timeline) " |\n"
+        "| Speaker Notification | " (:speaker-notification timeline) " |\n"
+        "| Festival Dates | " (:festival-dates timeline) " |")))
 
 ;; ## How to Submit
 
