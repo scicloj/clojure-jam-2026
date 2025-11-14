@@ -161,18 +161,18 @@
     "text": "Supported by:"
   },
   {
-    "objectID": "index.html#what-is-creative-coding",
-    "href": "index.html#what-is-creative-coding",
+    "objectID": "index.html#early-announced-speakers",
+    "href": "index.html#early-announced-speakers",
     "title": "Clojure Jam 2026",
-    "section": "What is Creative Coding?",
-    "text": "What is Creative Coding?\nCreative coding is the practice of writing code to create expressive, artistic works rather than functional applications. It’s where programming meets art, music, and visual design.\nAt Clojure Jam, we celebrate music & sound synthesis, generative art, creative data visualization, interactive installations, and explorations of order & chaos. See our Sessions page to learn more about the topics we’re exploring."
+    "section": "Early Announced Speakers",
+    "text": "Early Announced Speakers\nSiyoung ByunIain WoodTomasz Sulej (Generateme)"
   },
   {
     "objectID": "index.html#when-where",
     "href": "index.html#when-where",
     "title": "Clojure Jam 2026",
     "section": "When & Where",
-    "text": "When & Where\n\n📅 Date: April 2026 (specific dates TBD)\n🌐 Format: Online via Zoom\n💰 Cost: Free!\n🎟️ Registration: Coming soon"
+    "text": "When & Where\n\n📅 Date: April 18-19 & 25-26, 2026\n🌐 Format: Online via Zoom\n💰 Cost: Free!\n🎟️ Registration: Coming soon"
   },
   {
     "objectID": "index.html#timeline",
@@ -180,6 +180,13 @@
     "title": "Clojure Jam 2026",
     "section": "Timeline",
     "text": "Timeline\n\nCall for Proposals: Now open!\nSubmission Deadline: January 31, 2026\nSpeaker Notification: February 15, 2026\nFestival Dates: April 18-19 & 25-26, 2026"
+  },
+  {
+    "objectID": "index.html#what-is-creative-coding",
+    "href": "index.html#what-is-creative-coding",
+    "title": "Clojure Jam 2026",
+    "section": "What is Creative Coding?",
+    "text": "What is Creative Coding?\nCreative coding is the practice of writing code to create expressive, artistic works rather than functional applications. It’s where programming meets art, music, and visual design.\nAt Clojure Jam, we celebrate music & sound synthesis, generative art, creative data visualization, interactive installations, and explorations of order & chaos. See our Sessions page to learn more about the topics we’re exploring."
   },
   {
     "objectID": "index.html#call-for-proposals",
