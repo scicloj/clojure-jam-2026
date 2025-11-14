@@ -21,7 +21,7 @@ format:
 
 # Code of Conduct
 
-Macroexpand is dedicated to providing a welcoming, inclusive experience for everyone.
+Clojure Jam is dedicated to providing a welcoming, inclusive experience for everyone.
 
 We expect all participants to be respectful and considerate in all interactions, welcome newcomers, and support learning.
 
