@@ -32,11 +32,9 @@
 
 ;; ## Want to Present?
 
-;; We're actively seeking creative coding talks and workshops covering music, art, visualization, and more.
+;; We're seeking creative coding talks and workshops covering music, art, visualization, and more.
 
 ;; 👉 [Submit Your Proposal](./speakers.html)
-
-;; **Remember:** All speakers commit to writing a [Clojure Civitas](https://clojurecivitas.github.io/) post documenting their work.
 
 ^:kindly/hide-code
 (kind/hiccup

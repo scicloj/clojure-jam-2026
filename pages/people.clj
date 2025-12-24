@@ -70,4 +70,4 @@
        :class "btn btn-gradient"
        :style "display: inline-block; text-decoration: none; font-size: 1.1rem; padding: 0.75rem 1.5rem;"
        :aria-label "Submit your proposal for Clojure Jam"}
-   "🎨 Be a Speaker - Submit Your Proposal"]])
+   "🎨 Submit Your Proposal"]])

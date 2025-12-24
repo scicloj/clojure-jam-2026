@@ -25,7 +25,7 @@ open-graph: {title: Clojure Jam 2026, image: 'https://scicloj.github.io/clojure-
 
 
 ```{=html}
-<div><div class="main-page"><div class="conf-intro"><div class="conf-intro__title-wrapper"><h1 class="conf-intro__title">Clojure Jam 2026</h1><div class="conf-intro__subtitle">A Festival of Creative Coding in Clojure</div></div></div><div class="conf-intro__description">Clojure Jam is an online creative coding festival organized by <a href="https://scicloj.github.io/">Scicloj</a>. Join us in April 2026 for a celebration of <strong>music</strong>, <strong>generative art</strong>, <strong>creative visualization</strong>, and all forms of creative expression through code.<br /><br />This festival brings together artists, musicians, data enthusiasts, and creative coders to share projects, learn new techniques, and explore the boundaries of what's possible with Clojure's creative coding ecosystem.</div></div></div>
+<div><div class="main-page"><div class="conf-intro"><div class="conf-intro__title-wrapper"><h1 class="conf-intro__title">Clojure Jam 2026</h1><div class="conf-intro__subtitle">A Festival of Creative Coding in Clojure</div></div></div><div class="conf-intro__description">An online creative coding festival organized by <a href="https://scicloj.github.io/">Scicloj</a>. Join us in April 2026 for <strong>music</strong>, <strong>generative art</strong>, <strong>creative visualization</strong>, and creative expression through code.<br /><br />Share projects, learn techniques, and explore the boundaries of Clojure's creative coding ecosystem.</div></div></div>
 ```
 
 
@@ -62,16 +62,14 @@ open-graph: {title: Clojure Jam 2026, image: 'https://scicloj.github.io/clojure-
 
 Creative coding is the practice of writing code to create expressive, artistic works rather than functional applications. It's where programming meets art, music, and visual design.
 
-At Clojure Jam, we celebrate music & sound synthesis, generative art, creative data visualization, interactive installations, and explorations of order & chaos. See our [Sessions](./sessions.html) page to learn more about the topics we're exploring.
+At Clojure Jam, we celebrate music & sound synthesis, generative art, creative data visualization, interactive installations, and explorations of order & chaos.
 
 
 ## Call for Proposals
 
-We're actively seeking creative coding talks and workshops! Whether you're working with music synthesis, generative art, data visualization, or any other form of creative expression in Clojure, we want to hear from you.
+We're seeking creative coding talks and workshops! Music synthesis, generative art, data visualization, or any creative expression in Clojure.
 
-**Important:** All speakers commit to writing a [Clojure Civitas](https://clojurecivitas.github.io/) post documenting their work!
-
-See our [Submit Proposal](./speakers.html) page for full details on topics, formats, and submission guidelines.
+See our [Submit Proposal](./speakers.html) page for details on topics, formats, and submission guidelines.
 
 
 ```{=html}

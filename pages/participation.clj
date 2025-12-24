@@ -43,52 +43,21 @@
 
 ;; ### Join the Community Chat
 
-;; Connect with fellow creative coders on the [Clojurians Zulip](https://scicloj.github.io/docs/community/chat/):
+;; Connect with fellow creative coders on [Clojurians Zulip](https://scicloj.github.io/docs/community/chat/) in the [#clojure-jam-2026 channel](https://clojurians.zulipchat.com/#narrow/channel/544470-clojure-jam-2026).
 ;;
-;; 1. Visit [clojurians.zulipchat.com](https://clojurians.zulipchat.com/) to create an account
-;; 2. Join the [#clojure-jam-2026 channel](https://clojurians.zulipchat.com/#narrow/channel/544470-clojure-jam-2026)
-;; 3. Introduce yourself and share what creative coding interests you!
-
-;; This is where we'll:
-;;
-;; - Announce registration and schedule details
-;; - Discuss creative coding techniques and projects
-;; - Share resources and collaborate
-;; - Provide real-time support during the festival
+;; This is where we'll announce registration details, discuss creative coding techniques, and provide festival support.
 
 ;; ## For Speakers
 
 ;; Want to present your creative coding project or teach a workshop?
 
-;; 👉 See our [Submit Proposal](./speakers.html) page for guidelines and how to submit.
-
-;; **Remember:** All speakers commit to writing a [Clojure Civitas](https://clojurecivitas.github.io/) post documenting their work!
+;; 👉 See our [Submit Proposal](./speakers.html) page for details.
 
 ;; ## What to Expect
 
-;; Clojure Jam will feature:
+;; Talks, workshops, and live coding sessions covering music, art, and creative visualization.
 ;;
-;; - **🎵 Creative Talks** - Speakers showcase their music, art, and visualization projects
-;; - **🛠️ Hands-On Workshops** - Learn creative coding techniques step-by-step
-;; - **💻 Live Coding** - Watch creativity unfold in real-time
-;; - **💬 Discussions** - Connect with other creative coders
-;; - **📝 Clojure Civitas Posts** - Lasting documentation you can learn from and build upon
-
-;; All sessions will be:
-;;
-;; - Free to attend
-;; - Recorded and shared on [Scicloj's YouTube channel](https://www.youtube.com/@Scicloj)
-;; - Interactive with Q&A time
-;; - Documented on Clojure Civitas
-
-;; ## Before the Festival
-
-;; Once registration opens, you'll want to:
-;;
-;; 1. **Install Zoom** or prepare to use it in your browser
-;; 2. **Test your audio/video** if you plan to ask questions
-;; 3. **Review the schedule** (will be published closer to the event)
-;; 4. **Explore [Clojure Civitas](https://clojurecivitas.github.io/)** - get inspired by existing creative coding posts!
+;; All sessions are free, recorded on [Scicloj's YouTube channel](https://www.youtube.com/@Scicloj), and include Q&A time.
 
 ;; ## Code of Conduct
 

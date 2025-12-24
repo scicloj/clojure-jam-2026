@@ -64,16 +64,9 @@ We're especially interested in (but not limited to):
 
 **1. Clojure Civitas Post Commitment** ⭐
 
-**This is essential:** All speakers commit to writing a [Clojure Civitas](https://clojurecivitas.github.io/) post documenting their work.
+All speakers commit to writing a [Clojure Civitas](https://clojurecivitas.github.io/) post documenting their work. This builds a lasting knowledge base where others can learn from and build upon your creative techniques.
 
-Your Civitas post is how we build a lasting creative coding knowledge base for the Clojure community. It allows others to:
-
-- Reproduce your creative techniques
-- Build upon your ideas
-- Learn from your process
-- Explore the code that creates your art/music/visualizations
-
-We recommend Timothy Pratley's 🎥 [tutorial](https://www.youtube.com/watch?v=lceazLPcSZg) to get started with Clojure Civitas.
+New to Civitas? Watch Timothy Pratley's 🎥 [tutorial](https://www.youtube.com/watch?v=lceazLPcSZg).
 
 **2. Proposal Content**
 
@@ -92,15 +85,11 @@ Aim for general Clojure programmers. Some familiarity with creative coding is fi
 
 ### What Makes a Great Proposal
 
-✨ **Show, Don't Just Tell** - Include visual examples, sound samples, or code snippets in your proposal
+✨ **Show, Don't Just Tell** - Include visual examples, sound samples, or code snippets
 
-🎨 **Creative Process** - Share your creative journey, not just the final result. How did you arrive at this technique? What experiments didn't work?
+🎨 **Share the Journey** - Explain your creative process, not just the final result
 
-🛠️ **Practical & Reproducible** - Others should be able to recreate and build upon your work
-
-🌱 **Beginner-Friendly** - Even advanced topics can be made accessible with good explanation
-
-💡 **Novel Approaches** - New uses of existing libraries, creative combinations of tools, or fresh perspectives
+🛠️ **Make it Reproducible** - Others should be able to recreate and build upon your work
 
 
 ## Libraries & Tools
@@ -123,17 +112,6 @@ But don't feel limited! If you're using other libraries creatively, we want to h
 - **Cross-disciplinary collaborations** with artists, musicians, or designers are highly valued
 - **New to public speaking?** We can help pair you with experienced co-presenters
 - **Have a project idea but don't want to present?** We can help find someone to present your work
-
-
-## Timeline
-
-
-| Event | Date |
-|-------|------|
-| Call for Proposals | Now open! |
-| Submission Deadline | January 31, 2026 |
-| Speaker Notification | February 15, 2026 |
-| Festival Dates | April 18-19 & 25-26, 2026 |
 
 
 ## How to Submit

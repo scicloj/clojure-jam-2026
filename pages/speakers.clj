@@ -53,16 +53,9 @@
 
 ;; **1. Clojure Civitas Post Commitment** ⭐
 
-;; **This is essential:** All speakers commit to writing a [Clojure Civitas](https://clojurecivitas.github.io/) post documenting their work.
+;; All speakers commit to writing a [Clojure Civitas](https://clojurecivitas.github.io/) post documenting their work. This builds a lasting knowledge base where others can learn from and build upon your creative techniques.
 
-;; Your Civitas post is how we build a lasting creative coding knowledge base for the Clojure community. It allows others to:
-;;
-;; - Reproduce your creative techniques
-;; - Build upon your ideas
-;; - Learn from your process
-;; - Explore the code that creates your art/music/visualizations
-
-;; We recommend Timothy Pratley's 🎥 [tutorial](https://www.youtube.com/watch?v=lceazLPcSZg) to get started with Clojure Civitas.
+;; New to Civitas? Watch Timothy Pratley's 🎥 [tutorial](https://www.youtube.com/watch?v=lceazLPcSZg).
 
 ;; **2. Proposal Content**
 
@@ -80,15 +73,11 @@
 
 ;; ### What Makes a Great Proposal
 
-;; ✨ **Show, Don't Just Tell** - Include visual examples, sound samples, or code snippets in your proposal
+;; ✨ **Show, Don't Just Tell** - Include visual examples, sound samples, or code snippets
 
-;; 🎨 **Creative Process** - Share your creative journey, not just the final result. How did you arrive at this technique? What experiments didn't work?
+;; 🎨 **Share the Journey** - Explain your creative process, not just the final result
 
-;; 🛠️ **Practical & Reproducible** - Others should be able to recreate and build upon your work
-
-;; 🌱 **Beginner-Friendly** - Even advanced topics can be made accessible with good explanation
-
-;; 💡 **Novel Approaches** - New uses of existing libraries, creative combinations of tools, or fresh perspectives
+;; 🛠️ **Make it Reproducible** - Others should be able to recreate and build upon your work
 
 ;; ## Libraries & Tools
 
@@ -106,18 +95,6 @@
 ;; - **Cross-disciplinary collaborations** with artists, musicians, or designers are highly valued
 ;; - **New to public speaking?** We can help pair you with experienced co-presenters
 ;; - **Have a project idea but don't want to present?** We can help find someone to present your work
-
-;; ## Timeline
-
-^:kindly/hide-code
-(let [timeline (:timeline conference-info)]
-  (kind/md
-   (str "\n| Event | Date |\n"
-        "|-------|------|\n"
-        "| Call for Proposals | " (:cfp-open timeline) " |\n"
-        "| Submission Deadline | " (:cfp-deadline timeline) " |\n"
-        "| Speaker Notification | " (:speaker-notification timeline) " |\n"
-        "| Festival Dates | " (:festival-dates timeline) " |")))
 
 ;; ## How to Submit
 

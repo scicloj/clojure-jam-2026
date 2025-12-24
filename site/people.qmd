@@ -56,5 +56,5 @@ Scicloj is dedicated to growing Clojure in data science, scientific computing, a
 
 
 ```{=html}
-<div style="text-align: center; margin: 2rem 0;"><a aria-label="Submit your proposal for Clojure Jam" class="btn btn-gradient" href="./speakers.html" style="display: inline-block; text-decoration: none; font-size: 1.1rem; padding: 0.75rem 1.5rem;">🎨 Be a Speaker - Submit Your Proposal</a></div>
+<div style="text-align: center; margin: 2rem 0;"><a aria-label="Submit your proposal for Clojure Jam" class="btn btn-gradient" href="./speakers.html" style="display: inline-block; text-decoration: none; font-size: 1.1rem; padding: 0.75rem 1.5rem;">🎨 Submit Your Proposal</a></div>
 ```
