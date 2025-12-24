@@ -18,7 +18,7 @@
     "href": "speakers.html#proposal-guidelines",
     "title": "Submit Your Proposal",
     "section": "Proposal Guidelines",
-    "text": "Proposal Guidelines\n\nCore Requirements\n1. Clojure Civitas Post Commitment ⭐\nThis is essential: All speakers commit to writing a Clojure Civitas post documenting their work.\nYour Civitas post is how we build a lasting creative coding knowledge base for the Clojure community. It allows others to:\n\nReproduce your creative techniques\nBuild upon your ideas\nLearn from your process\nExplore the code that creates your art/music/visualizations\n\nWe recommend Timothy Pratley’s 🎥 tutorial to get started with Clojure Civitas.\n2. Proposal Content\nYour proposal should include:\n\nTitle - Clear and engaging\nAbstract (150-300 words) - What will you demonstrate or teach?\nProof of Concept - A draft Civitas post showing your work in progress\nFormat - Talk, workshop, or live coding session\nDuration - How long you need\n\n3. Audience\nAim for general Clojure programmers. Some familiarity with creative coding is fine, but your talk should be accessible to those new to the specific domain (music, art, etc.). We especially welcome talks that introduce creative coding concepts to Clojure developers!\n\n\nWhat Makes a Great Proposal\n✨ Show, Don’t Just Tell - Include visual examples, sound samples, or code snippets in your proposal\n🎨 Creative Process - Share your creative journey, not just the final result. How did you arrive at this technique? What experiments didn’t work?\n🛠️ Practical & Reproducible - Others should be able to recreate and build upon your work\n🌱 Beginner-Friendly - Even advanced topics can be made accessible with good explanation\n💡 Novel Approaches - New uses of existing libraries, creative combinations of tools, or fresh perspectives"
+    "text": "Proposal Guidelines\n\nCore Requirements\n1. Clojure Civitas Post Commitment ⭐\nAll speakers commit to writing a Clojure Civitas post documenting their work. This builds a lasting knowledge base where others can learn from and build upon your creative techniques.\nNew to Civitas? Watch Timothy Pratley’s 🎥 tutorial.\n2. Proposal Content\nYour proposal should include:\n\nTitle - Clear and engaging\nAbstract (150-300 words) - What will you demonstrate or teach?\nProof of Concept - A draft Civitas post showing your work in progress\nFormat - Talk, workshop, or live coding session\nDuration - How long you need\n\n3. Audience\nAim for general Clojure programmers. Some familiarity with creative coding is fine, but your talk should be accessible to those new to the specific domain (music, art, etc.). We especially welcome talks that introduce creative coding concepts to Clojure developers!\n\n\nWhat Makes a Great Proposal\n✨ Show, Don’t Just Tell - Include visual examples, sound samples, or code snippets\n🎨 Share the Journey - Explain your creative process, not just the final result\n🛠️ Make it Reproducible - Others should be able to recreate and build upon your work"
   },
   {
     "objectID": "speakers.html#libraries-tools",
@@ -33,13 +33,6 @@
     "title": "Submit Your Proposal",
     "section": "Collaboration Welcome",
     "text": "Collaboration Welcome\n\nTeam presentations are encouraged\nCross-disciplinary collaborations with artists, musicians, or designers are highly valued\nNew to public speaking? We can help pair you with experienced co-presenters\nHave a project idea but don’t want to present? We can help find someone to present your work"
-  },
-  {
-    "objectID": "speakers.html#timeline",
-    "href": "speakers.html#timeline",
-    "title": "Submit Your Proposal",
-    "section": "Timeline",
-    "text": "Timeline\n\n\n\nEvent\nDate\n\n\n\n\nCall for Proposals\nNow open!\n\n\nSubmission Deadline\nJanuary 31, 2026\n\n\nSpeaker Notification\nFebruary 15, 2026\n\n\nFestival Dates\nApril 18-19 & 25-26, 2026"
   },
   {
     "objectID": "speakers.html#how-to-submit",
@@ -88,28 +81,21 @@
     "href": "participation.html#for-attendees",
     "title": "How to Participate",
     "section": "For Attendees",
-    "text": "For Attendees\n\nRegistration (Coming Soon)\nRegistration will open soon! The festival is free and online via Zoom. Sign up to receive:\n\nZoom links for all sessions\nSchedule updates and announcements\nCalendar invites with session times\n\nCheck back here or join our Zulip chat for updates!\n\n\nJoin the Community Chat\nConnect with fellow creative coders on the Clojurians Zulip:\n\nVisit clojurians.zulipchat.com to create an account\nJoin the #clojure-jam-2026 channel\nIntroduce yourself and share what creative coding interests you!\n\nThis is where we’ll:\n\nAnnounce registration and schedule details\nDiscuss creative coding techniques and projects\nShare resources and collaborate\nProvide real-time support during the festival"
+    "text": "For Attendees\n\nRegistration (Coming Soon)\nRegistration will open soon! The festival is free and online via Zoom. Sign up to receive:\n\nZoom links for all sessions\nSchedule updates and announcements\nCalendar invites with session times\n\nCheck back here or join our Zulip chat for updates!\n\n\nJoin the Community Chat\nConnect with fellow creative coders on Clojurians Zulip in the #clojure-jam-2026 channel.\nThis is where we’ll announce registration details, discuss creative coding techniques, and provide festival support."
   },
   {
     "objectID": "participation.html#for-speakers",
     "href": "participation.html#for-speakers",
     "title": "How to Participate",
     "section": "For Speakers",
-    "text": "For Speakers\nWant to present your creative coding project or teach a workshop?\n👉 See our Submit Proposal page for guidelines and how to submit.\nRemember: All speakers commit to writing a Clojure Civitas post documenting their work!"
+    "text": "For Speakers\nWant to present your creative coding project or teach a workshop?\n👉 See our Submit Proposal page for details."
   },
   {
     "objectID": "participation.html#what-to-expect",
     "href": "participation.html#what-to-expect",
     "title": "How to Participate",
     "section": "What to Expect",
-    "text": "What to Expect\nClojure Jam will feature:\n\n🎵 Creative Talks - Speakers showcase their music, art, and visualization projects\n🛠️ Hands-On Workshops - Learn creative coding techniques step-by-step\n💻 Live Coding - Watch creativity unfold in real-time\n💬 Discussions - Connect with other creative coders\n📝 Clojure Civitas Posts - Lasting documentation you can learn from and build upon\n\nAll sessions will be:\n\nFree to attend\nRecorded and shared on Scicloj’s YouTube channel\nInteractive with Q&A time\nDocumented on Clojure Civitas"
-  },
-  {
-    "objectID": "participation.html#before-the-festival",
-    "href": "participation.html#before-the-festival",
-    "title": "How to Participate",
-    "section": "Before the Festival",
-    "text": "Before the Festival\nOnce registration opens, you’ll want to:\n\nInstall Zoom or prepare to use it in your browser\nTest your audio/video if you plan to ask questions\nReview the schedule (will be published closer to the event)\nExplore Clojure Civitas - get inspired by existing creative coding posts!"
+    "text": "What to Expect\nTalks, workshops, and live coding sessions covering music, art, and creative visualization.\nAll sessions are free, recorded on Scicloj’s YouTube channel, and include Q&A time."
   },
   {
     "objectID": "participation.html#code-of-conduct",
@@ -144,7 +130,7 @@
     "href": "sessions.html#want-to-present",
     "title": "Sessions",
     "section": "Want to Present?",
-    "text": "Want to Present?\nWe’re actively seeking creative coding talks and workshops covering music, art, visualization, and more.\n👉 Submit Your Proposal\nRemember: All speakers commit to writing a Clojure Civitas post documenting their work.\n🎨 Submit Your Proposal"
+    "text": "Want to Present?\nWe’re seeking creative coding talks and workshops covering music, art, visualization, and more.\n👉 Submit Your Proposal\n🎨 Submit Your Proposal"
   },
   {
     "objectID": "sessions.html#stay-updated",
@@ -186,14 +172,14 @@
     "href": "index.html#what-is-creative-coding",
     "title": "Clojure Jam 2026",
     "section": "What is Creative Coding?",
-    "text": "What is Creative Coding?\nCreative coding is the practice of writing code to create expressive, artistic works rather than functional applications. It’s where programming meets art, music, and visual design.\nAt Clojure Jam, we celebrate music & sound synthesis, generative art, creative data visualization, interactive installations, and explorations of order & chaos. See our Sessions page to learn more about the topics we’re exploring."
+    "text": "What is Creative Coding?\nCreative coding is the practice of writing code to create expressive, artistic works rather than functional applications. It’s where programming meets art, music, and visual design.\nAt Clojure Jam, we celebrate music & sound synthesis, generative art, creative data visualization, interactive installations, and explorations of order & chaos."
   },
   {
     "objectID": "index.html#call-for-proposals",
     "href": "index.html#call-for-proposals",
     "title": "Clojure Jam 2026",
     "section": "Call for Proposals",
-    "text": "Call for Proposals\nWe’re actively seeking creative coding talks and workshops! Whether you’re working with music synthesis, generative art, data visualization, or any other form of creative expression in Clojure, we want to hear from you.\nImportant: All speakers commit to writing a Clojure Civitas post documenting their work!\nSee our Submit Proposal page for full details on topics, formats, and submission guidelines.\n🎨 Submit Your Proposal"
+    "text": "Call for Proposals\nWe’re seeking creative coding talks and workshops! Music synthesis, generative art, data visualization, or any creative expression in Clojure.\nSee our Submit Proposal page for details on topics, formats, and submission guidelines.\n🎨 Submit Your Proposal"
   },
   {
     "objectID": "index.html#get-involved",
@@ -263,6 +249,6 @@
     "href": "people.html#join-the-community",
     "title": "People",
     "section": "Join the Community",
-    "text": "Join the Community\n\nClojurians Zulip - Join the #clojure-jam channel\nClojure Civitas - Read creative coding posts from the community\nScicloj - Learn more about our community\n\n🎨 Be a Speaker - Submit Your Proposal"
+    "text": "Join the Community\n\nClojurians Zulip - Join the #clojure-jam channel\nClojure Civitas - Read creative coding posts from the community\nScicloj - Learn more about our community\n\n🎨 Submit Your Proposal"
   }
 ]
