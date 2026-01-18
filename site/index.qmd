@@ -53,8 +53,8 @@ open-graph: {title: Clojure Jam 2026, image: 'https://scicloj.github.io/clojure-
 | Event | Date |
 |-------|------|
 | Call for Proposals | Now open! |
-| Submission Deadline | January 31, 2026 |
-| Speaker Notification | February 15, 2026 |
+| Submission Deadline | February 14, 2026 |
+| Speaker Notification | March 1, 2026 |
 | Festival Dates | April 18-19 & 25-26, 2026 |
 
 

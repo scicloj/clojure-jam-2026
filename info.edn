@@ -10,8 +10,8 @@
 
  :timeline
  {:cfp-open "Now open!"
-  :cfp-deadline "January 31, 2026"
-  :speaker-notification "February 15, 2026"
+  :cfp-deadline "February 14, 2026"
+  :speaker-notification "March 1, 2026"
   :festival-dates "April 18-19 & 25-26, 2026"}
 
  :goals
@@ -85,7 +85,8 @@
  {:clojure-civitas "https://clojurecivitas.github.io/"
   :zulip-channel "https://clojurians.zulipchat.com/#narrow/channel/544470-clojure-jam-2026"
   :scicloj "https://scicloj.github.io/"
-  :registration "TBD"}
+  :registration "TBD"
+  :submission-form "https://forms.gle/fLKw58AVC6v7qVY7A"}
 
  :supporting-companies
  {:techascent

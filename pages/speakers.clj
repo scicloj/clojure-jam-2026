@@ -31,9 +31,19 @@
 ;; 
 ;; Whether you're generating fractals, synthesizing music, visualizing data in new ways, or exploring any other form of creative coding, we want to see what you're building!
 
-;; ## What We're Looking For
+;; ## Timeline
 
-;; ### Topics
+^:kindly/hide-code
+(let [timeline (:timeline conference-info)]
+  (kind/md
+   (str "\n| Event | Date |\n"
+        "|-------|------|\n"
+        "| Call for Proposals | " (:cfp-open timeline) " |\n"
+        "| Submission Deadline | " (:cfp-deadline timeline) " |\n"
+        "| Speaker Notification | " (:speaker-notification timeline) " |\n"
+        "| Festival Dates | " (:festival-dates timeline) " |")))
+
+;; ## What We're Looking For
 
 ;; We're especially interested in (but not limited to):
 
@@ -41,35 +51,40 @@
 (kind/md
  (str "\n- " (apply str (interpose "\n- " (:preferred-topics conference-info)))))
 
-;; ### Format Options
-;;
-;; - **Talks** (30-45 minutes) - Showcase your creative projects, techniques, or explorations
-;; - **Workshops** (60-90 minutes) - Teach hands-on creative coding skills
-;; - **Live Coding** (30-45 minutes) - Demonstrate real-time creative coding
+;; **Formats**: Talks (30-45 min), Workshops (60-90 min), Live Coding (30-45 min)
 
-;; ## Proposal Guidelines
+;; ## How to Submit
 
-;; ### Core Requirements
+;; ### The Submission Process
 
-;; **1. Clojure Civitas Post Commitment** ⭐
+;; **Step 1: Create Your Clojure Civitas Post**
 
-;; All speakers commit to writing a [Clojure Civitas](https://clojurecivitas.github.io/) post documenting their work. This builds a lasting knowledge base where others can learn from and build upon your creative techniques.
+;; Create a [Clojure Civitas](https://clojurecivitas.github.io/) post (can be small/draft) showing your creative work.
 
 ;; New to Civitas? Watch Timothy Pratley's 🎥 [tutorial](https://www.youtube.com/watch?v=lceazLPcSZg).
 
-;; **2. Proposal Content**
+;; **Step 2: Submit Your Proposal**
 
-;; Your proposal should include:
-;;
-;; - **Title** - Clear and engaging
-;; - **Abstract** (150-300 words) - What will you demonstrate or teach?
-;; - **Proof of Concept** - A draft Civitas post showing your work in progress
-;; - **Format** - Talk, workshop, or live coding session
-;; - **Duration** - How long you need
+;; Once you have a draft Civitas post, submit your proposal using our form.
 
-;; **3. Audience**
+^:kindly/hide-code
+(kind/hiccup
+ [:div {:style "text-align: center; margin: 2rem 0;"}
+  [:a {:href (get-in conference-info [:links :submission-form])
+       :target "_blank"
+       :class "btn btn-gradient"
+       :style "font-size: 1.2rem; padding: 1rem 2rem;"}
+   "Submit Your Proposal"]])
 
-;; Aim for general Clojure programmers. Some familiarity with creative coding is fine, but your talk should be accessible to those new to the specific domain (music, art, etc.). We especially welcome talks that introduce creative coding concepts to Clojure developers!
+;; **Get Feedback Anytime**
+
+;; Need feedback? Join [#clojure-jam-2026 Zulip](https://clojurians.zulipchat.com/#narrow/channel/544470-clojure-jam-2026) or [contact us](https://scicloj.github.io/docs/community/contact/) anytime.
+
+;; ## Proposal Guidelines
+
+;; ### Audience
+
+;; Aim for general Clojure programmers new to creative coding.
 
 ;; ### What Makes a Great Proposal
 
@@ -87,24 +102,10 @@
 (kind/md
  (str "\n- " (apply str (interpose "\n- " (:key-libraries conference-info)))))
 
-;; But don't feel limited! If you're using other libraries creatively, we want to hear about it.
-
 ;; ## Collaboration Welcome
 ;;
-;; - **Team presentations** are encouraged
-;; - **Cross-disciplinary collaborations** with artists, musicians, or designers are highly valued
-;; - **New to public speaking?** We can help pair you with experienced co-presenters
-;; - **Have a project idea but don't want to present?** We can help find someone to present your work
-
-;; ## How to Submit
-
-;; We're still setting up the submission process. In the meantime:
-;;
-;; 1. Join the [Clojurians Zulip](https://scicloj.github.io/docs/community/chat/)
-;; 2. Reach out in the [#clojure-jam-2026 channel](https://clojurians.zulipchat.com/#narrow/channel/544470-clojure-jam-2026) or [contact Scicloj directly](https://scicloj.github.io/docs/community/contact/)
-;; 3. Share your idea and we'll help you develop it into a proposal
-
-;; We're here to help you shape your ideas and create amazing creative coding content for the community!
+;; - Team presentations and cross-disciplinary collaborations encouraged
+;; - New to speaking? We can help pair you with co-presenters
 
 ;; ## Questions?
 
