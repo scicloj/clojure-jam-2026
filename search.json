@@ -7,39 +7,46 @@
     "text": "Supported by:"
   },
   {
+    "objectID": "speakers.html#timeline",
+    "href": "speakers.html#timeline",
+    "title": "Submit Your Proposal",
+    "section": "Timeline",
+    "text": "Timeline\n\n\n\nEvent\nDate\n\n\n\n\nCall for Proposals\nNow open!\n\n\nSubmission Deadline\nFebruary 14, 2026\n\n\nSpeaker Notification\nMarch 1, 2026\n\n\nFestival Dates\nApril 18-19 & 25-26, 2026"
+  },
+  {
     "objectID": "speakers.html#what-were-looking-for",
     "href": "speakers.html#what-were-looking-for",
     "title": "Submit Your Proposal",
     "section": "What We’re Looking For",
-    "text": "What We’re Looking For\n\nTopics\nWe’re especially interested in (but not limited to):\n\nMusic & Sound Synthesis\nGenerative Art & Graphics\nCreative Data Visualization\nRandomness & Procedural Generation\nGeometry & Recursive Geometry\nFractals & Self-Similarity\nOrder & Chaos / Emergence\nSignal Processing\nCreative use of real-world data\nInteractive Installations\nLive Coding Performances\nAlgorithmic Composition\nShader Programming\nPhysics Simulations\n\n\n\nFormat Options\n\nTalks (30-45 minutes) - Showcase your creative projects, techniques, or explorations\nWorkshops (60-90 minutes) - Teach hands-on creative coding skills\nLive Coding (30-45 minutes) - Demonstrate real-time creative coding"
-  },
-  {
-    "objectID": "speakers.html#proposal-guidelines",
-    "href": "speakers.html#proposal-guidelines",
-    "title": "Submit Your Proposal",
-    "section": "Proposal Guidelines",
-    "text": "Proposal Guidelines\n\nCore Requirements\n1. Clojure Civitas Post Commitment ⭐\nAll speakers commit to writing a Clojure Civitas post documenting their work. This builds a lasting knowledge base where others can learn from and build upon your creative techniques.\nNew to Civitas? Watch Timothy Pratley’s 🎥 tutorial.\n2. Proposal Content\nYour proposal should include:\n\nTitle - Clear and engaging\nAbstract (150-300 words) - What will you demonstrate or teach?\nProof of Concept - A draft Civitas post showing your work in progress\nFormat - Talk, workshop, or live coding session\nDuration - How long you need\n\n3. Audience\nAim for general Clojure programmers. Some familiarity with creative coding is fine, but your talk should be accessible to those new to the specific domain (music, art, etc.). We especially welcome talks that introduce creative coding concepts to Clojure developers!\n\n\nWhat Makes a Great Proposal\n✨ Show, Don’t Just Tell - Include visual examples, sound samples, or code snippets\n🎨 Share the Journey - Explain your creative process, not just the final result\n🛠️ Make it Reproducible - Others should be able to recreate and build upon your work"
-  },
-  {
-    "objectID": "speakers.html#libraries-tools",
-    "href": "speakers.html#libraries-tools",
-    "title": "Submit Your Proposal",
-    "section": "Libraries & Tools",
-    "text": "Libraries & Tools\nWe’re especially interested in creative uses of:\n\nFastmath - mathematics for creative coding\nClojure2D - 2D graphics and image processing\ndtype-next - efficient numerical computing\nClay - literate programming and documentation\nScittle - run Clojure in the browser via SCI\n\nBut don’t feel limited! If you’re using other libraries creatively, we want to hear about it."
-  },
-  {
-    "objectID": "speakers.html#collaboration-welcome",
-    "href": "speakers.html#collaboration-welcome",
-    "title": "Submit Your Proposal",
-    "section": "Collaboration Welcome",
-    "text": "Collaboration Welcome\n\nTeam presentations are encouraged\nCross-disciplinary collaborations with artists, musicians, or designers are highly valued\nNew to public speaking? We can help pair you with experienced co-presenters\nHave a project idea but don’t want to present? We can help find someone to present your work"
+    "text": "What We’re Looking For\nWe’re especially interested in (but not limited to):\n\nMusic & Sound Synthesis\nGenerative Art & Graphics\nCreative Data Visualization\nRandomness & Procedural Generation\nGeometry & Recursive Geometry\nFractals & Self-Similarity\nOrder & Chaos / Emergence\nSignal Processing\nCreative use of real-world data\nInteractive Installations\nLive Coding Performances\nAlgorithmic Composition\nShader Programming\nPhysics Simulations\n\nFormats: Talks (30-45 min), Workshops (60-90 min), Live Coding (30-45 min)"
   },
   {
     "objectID": "speakers.html#how-to-submit",
     "href": "speakers.html#how-to-submit",
     "title": "Submit Your Proposal",
     "section": "How to Submit",
-    "text": "How to Submit\nWe’re still setting up the submission process. In the meantime:\n\nJoin the Clojurians Zulip\nReach out in the #clojure-jam-2026 channel or contact Scicloj directly\nShare your idea and we’ll help you develop it into a proposal\n\nWe’re here to help you shape your ideas and create amazing creative coding content for the community!"
+    "text": "How to Submit\n\nThe Submission Process\nStep 1: Create Your Clojure Civitas Post\nCreate a Clojure Civitas post (can be small/draft) showing your creative work.\nNew to Civitas? Watch Timothy Pratley’s 🎥 tutorial.\nStep 2: Submit Your Proposal\nOnce you have a draft Civitas post, submit your proposal using our form.\nSubmit Your Proposal\nGet Feedback Anytime\nNeed feedback? Join #clojure-jam-2026 Zulip or contact us anytime."
+  },
+  {
+    "objectID": "speakers.html#proposal-guidelines",
+    "href": "speakers.html#proposal-guidelines",
+    "title": "Submit Your Proposal",
+    "section": "Proposal Guidelines",
+    "text": "Proposal Guidelines\n\nAudience\nAim for general Clojure programmers new to creative coding.\n\n\nWhat Makes a Great Proposal\n✨ Show, Don’t Just Tell - Include visual examples, sound samples, or code snippets\n🎨 Share the Journey - Explain your creative process, not just the final result\n🛠️ Make it Reproducible - Others should be able to recreate and build upon your work"
+  },
+  {
+    "objectID": "speakers.html#libraries-tools",
+    "href": "speakers.html#libraries-tools",
+    "title": "Submit Your Proposal",
+    "section": "Libraries & Tools",
+    "text": "Libraries & Tools\nWe’re especially interested in creative uses of:\n\nFastmath - mathematics for creative coding\nClojure2D - 2D graphics and image processing\ndtype-next - efficient numerical computing\nClay - literate programming and documentation\nScittle - run Clojure in the browser via SCI"
+  },
+  {
+    "objectID": "speakers.html#collaboration-welcome",
+    "href": "speakers.html#collaboration-welcome",
+    "title": "Submit Your Proposal",
+    "section": "Collaboration Welcome",
+    "text": "Collaboration Welcome\n\nTeam presentations and cross-disciplinary collaborations encouraged\nNew to speaking? We can help pair you with co-presenters"
   },
   {
     "objectID": "speakers.html#questions",
@@ -165,7 +172,7 @@
     "href": "index.html#timeline",
     "title": "Clojure Jam 2026",
     "section": "Timeline",
-    "text": "Timeline\n\n\n\nEvent\nDate\n\n\n\n\nCall for Proposals\nNow open!\n\n\nSubmission Deadline\nJanuary 31, 2026\n\n\nSpeaker Notification\nFebruary 15, 2026\n\n\nFestival Dates\nApril 18-19 & 25-26, 2026"
+    "text": "Timeline\n\n\n\nEvent\nDate\n\n\n\n\nCall for Proposals\nNow open!\n\n\nSubmission Deadline\nFebruary 14, 2026\n\n\nSpeaker Notification\nMarch 1, 2026\n\n\nFestival Dates\nApril 18-19 & 25-26, 2026"
   },
   {
     "objectID": "index.html#what-is-creative-coding",
