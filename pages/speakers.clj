@@ -55,8 +55,6 @@
 
 ;; ## How to Submit
 
-;; ### The Submission Process
-
 ;; **Step 1: Create Your Clojure Civitas Post**
 
 ;; Create a [Clojure Civitas](https://clojurecivitas.github.io/) post (can be small/draft) showing your creative work.
