@@ -43,16 +43,6 @@
         "| Speaker Notification | " (:speaker-notification timeline) " |\n"
         "| Festival Dates | " (:festival-dates timeline) " |")))
 
-;; ## What We're Looking For
-
-;; We're especially interested in (but not limited to):
-
-^:kindly/hide-code
-(kind/md
- (str "\n- " (apply str (interpose "\n- " (:preferred-topics conference-info)))))
-
-;; **Formats**: Talks (30-45 min), Workshops (60-90 min), Live Coding (30-45 min)
-
 ;; ## How to Submit
 
 ;; **Step 1: Create Your Clojure Civitas Post**
@@ -74,11 +64,21 @@
        :style "font-size: 1.2rem; padding: 1rem 2rem;"}
    "Submit Your Proposal"]])
 
-;; **Get Feedback Anytime**
+;; **Reach out anytime**
 
 ;; Need feedback? Join [#clojure-jam-2026 Zulip](https://clojurians.zulipchat.com/#narrow/channel/544470-clojure-jam-2026) or [contact us](https://scicloj.github.io/docs/community/contact/) anytime.
 
 ;; ## Proposal Guidelines
+
+;; ### What We're Looking For
+
+;; We're especially interested in (but not limited to):
+
+^:kindly/hide-code
+(kind/md
+ (str "\n- " (apply str (interpose "\n- " (:preferred-topics conference-info)))))
+
+;; **Formats**: Talks (30-45 min), Workshops (60-90 min), Live Coding (30-45 min)
 
 ;; ### Audience
 
@@ -92,7 +92,7 @@
 
 ;; 🛠️ **Make it Reproducible** - Others should be able to recreate and build upon your work
 
-;; ## Libraries & Tools
+;; ### Libraries & Tools
 
 ;; We're especially interested in creative uses of:
 
@@ -100,7 +100,7 @@
 (kind/md
  (str "\n- " (apply str (interpose "\n- " (:key-libraries conference-info)))))
 
-;; ## Collaboration Welcome
+;; ### Collaboration Welcome
 ;;
 ;; - Team presentations and cross-disciplinary collaborations encouraged
 ;; - New to speaking? We can help pair you with co-presenters
