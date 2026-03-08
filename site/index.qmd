@@ -1,7 +1,7 @@
 ---
 format:
   html: {toc: false, toc-depth: 4, theme: cosmo}
-description: Clojure Jam - A Festival of Creative Coding in Clojure - April 2026
+description: Clojure Jam - A Festival of Creative Coding in Clojure
 title-block-style: none
 image: https://scicloj.github.io/clojure-jam/images/sci-cloj-logo-transparent.png
 twitter-card: {title: Clojure Jam 2026, image: 'https://scicloj.github.io/clojure-jam/images/sci-cloj-logo-transparent.png'}
@@ -25,7 +25,7 @@ open-graph: {title: Clojure Jam 2026, image: 'https://scicloj.github.io/clojure-
 
 
 ```{=html}
-<div><div class="main-page"><div class="conf-intro"><div class="conf-intro__title-wrapper"><h1 class="conf-intro__title">Clojure Jam 2026</h1><div class="conf-intro__subtitle">A Festival of Creative Coding in Clojure</div></div></div><div class="conf-intro__description">An online creative coding festival organized by <a href="https://scicloj.github.io/">Scicloj</a>. Join us in April 2026 for <strong>music</strong>, <strong>generative art</strong>, <strong>creative visualization</strong>, and creative expression through code.<br /><br />Share projects, learn techniques, and explore the boundaries of Clojure's creative coding ecosystem.</div></div></div>
+<div><div style="background: #fff3cd; border: 2px solid #ffc107; border-radius: 8px; padding: 1.25rem 1.5rem; margin: 1.5rem 0; text-align: center; font-size: 1.1rem;"><strong>📢 Clojure Jam has been postponed.</strong> New dates will be announced — stay tuned! Proposals are still welcome, and we'd love to <a href="https://scicloj.github.io/docs/community/contact/">hear your ideas</a>.</div><div class="main-page"><div class="conf-intro"><div class="conf-intro__title-wrapper"><h1 class="conf-intro__title">Clojure Jam 2026</h1><div class="conf-intro__subtitle">A Festival of Creative Coding in Clojure</div></div></div><div class="conf-intro__description">An online creative coding festival organized by <a href="https://scicloj.github.io/">Scicloj</a>. Exploring <strong>music</strong>, <strong>generative art</strong>, <strong>creative visualization</strong>, and creative expression through code.<br /><br />Share projects, learn techniques, and explore the boundaries of Clojure's creative coding ecosystem.</div></div></div>
 ```
 
 
@@ -34,28 +34,17 @@ open-graph: {title: Clojure Jam 2026, image: 'https://scicloj.github.io/clojure-
 
 
 ```{=html}
-<div style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap; margin: 2rem 0;"><div key="siyoung-byun" style="text-align: center; flex: 0 1 200px;"><img alt="Siyoung Byun" src="https://scicloj.github.io/macroexpand-2025/images/siyoung-byun.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem; border: 3px solid #e0e0e0;" /><h3 style="margin: 0; font-size: 1.1rem;">Siyoung Byun</h3></div><div key="generateme" style="text-align: center; flex: 0 1 200px;"><img alt="Tomasz Sulej (Generateme)" src="https://avatars.githubusercontent.com/u/38646601?v=4" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem; border: 3px solid #e0e0e0;" /><h3 style="margin: 0; font-size: 1.1rem;">Tomasz Sulej (Generateme)</h3></div><div key="iain-wood" style="text-align: center; flex: 0 1 200px;"><img alt="Iain Wood" src="https://scicloj.github.io/macroexpand-2025/images/iain-wood.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem; border: 3px solid #e0e0e0;" /><h3 style="margin: 0; font-size: 1.1rem;">Iain Wood</h3></div></div>
+<div style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap; margin: 2rem 0;"><div key="siyoung-byun" style="text-align: center; flex: 0 1 200px;"><img alt="Siyoung Byun" src="https://scicloj.github.io/macroexpand-2025/images/siyoung-byun.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem; border: 3px solid #e0e0e0;" /><h3 style="margin: 0; font-size: 1.1rem;">Siyoung Byun</h3></div><div key="generateme" style="text-align: center; flex: 0 1 200px;"><img alt="Tomasz Sulej (Generateme)" src="https://avatars.githubusercontent.com/u/38646601?v=4" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem; border: 3px solid #e0e0e0;" /><h3 style="margin: 0; font-size: 1.1rem;">Tomasz Sulej (Generateme)</h3></div><div key="iain-wood" style="text-align: center; flex: 0 1 200px;"><img alt="Iain Wood" src="https://scicloj.github.io/macroexpand-2025/images/iain-wood.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem; border: 3px solid #e0e0e0;" /><h3 style="margin: 0; font-size: 1.1rem;">Iain Wood</h3></div><div key="rafal-dittwald" style="text-align: center; flex: 0 1 200px;"><img alt="Rafal Dittwald" src="images/rafal-dittwald.jpg" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem; border: 3px solid #e0e0e0;" /><h3 style="margin: 0; font-size: 1.1rem;">Rafal Dittwald</h3></div><div key="jan-wedekind" style="text-align: center; flex: 0 1 200px;"><img alt="Jan Wedekind" src="images/jan-wedekind.png" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem; border: 3px solid #e0e0e0;" /><h3 style="margin: 0; font-size: 1.1rem;">Jan Wedekind</h3></div></div>
 ```
 
 
 
 ## When & Where
 
-- **📅 Date:** April 18-19 & 25-26, 2026
+- **📅 Date:** TBA
 - **🌐 Format:** Online via Zoom
 - **💰 Cost:** Free!
 - **🎟️ Registration:** Coming soon
-
-
-## Timeline
-
-
-| Event | Date |
-|-------|------|
-| Call for Proposals | Now open! |
-| Submission Deadline | February 28, 2026 |
-| Speaker Notification | March 15, 2026 |
-| Festival Dates | April 18-19 & 25-26, 2026 |
 
 
 ## What is Creative Coding?
@@ -67,7 +56,7 @@ At Clojure Jam, we celebrate music & sound synthesis, generative art, creative d
 
 ## Call for Proposals
 
-We're seeking creative coding talks and workshops! Music synthesis, generative art, data visualization, or any creative expression in Clojure.
+We're seeking creative coding talks and workshops! Music synthesis, generative art, data visualization, or any creative expression in Clojure. There is no deadline — submit anytime.
 
 See our [Submit Proposal](./speakers.html) page for details on topics, formats, and submission guidelines.
 

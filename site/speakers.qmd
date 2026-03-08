@@ -25,19 +25,47 @@ Clojure Jam celebrates creative expression through code. We're looking for talks
 
 Whether you're generating fractals, synthesizing music, visualizing data in new ways, or exploring any other form of creative coding, we want to see what you're building!
 
+**Note:** Clojure Jam has been postponed to a new date (TBA), but proposals are welcome anytime. Feel free to submit or reach out to brainstorm ideas.
+
 
 ## Timeline
 
 
 | Event | Date |
 |-------|------|
-| Call for Proposals | Now open! |
-| Submission Deadline | February 28, 2026 |
-| Speaker Notification | March 15, 2026 |
-| Festival Dates | April 18-19 & 25-26, 2026 |
+| Call for Proposals | Open (no deadline) |
+| Submission Deadline | No deadline — submit anytime |
+| Speaker Notification | TBA |
+| Festival Dates | TBA |
 
 
-## What We're Looking For
+## How to Submit
+
+**Step 1: Create Your Clojure Civitas Post**
+
+Create a [Clojure Civitas](https://clojurecivitas.github.io/) post (can be small/draft) showing your creative work.
+
+New to Civitas? Watch Timothy Pratley's 🎥 [tutorial](https://www.youtube.com/watch?v=lceazLPcSZg).
+
+**Step 2: Submit Your Proposal**
+
+Once you have a draft Civitas post, submit your proposal using our form.
+
+
+```{=html}
+<div style="text-align: center; margin: 2rem 0;"><a class="btn btn-gradient" href="https://forms.gle/fLKw58AVC6v7qVY7A" style="font-size: 1.2rem; padding: 1rem 2rem;" target="_blank">Submit Your Proposal</a></div>
+```
+
+
+**Reach out anytime**
+
+Need feedback? Want to brainstorm ideas? Join [#clojure-jam-2026 Zulip](https://clojurians.zulipchat.com/#narrow/channel/544470-clojure-jam-2026) or [contact us](https://scicloj.github.io/docs/community/contact/) anytime.
+
+
+## Proposal Guidelines
+
+
+### What We're Looking For
 
 We're especially interested in (but not limited to):
 
@@ -60,35 +88,6 @@ We're especially interested in (but not limited to):
 **Formats**: Talks (30-45 min), Workshops (60-90 min), Live Coding (30-45 min)
 
 
-## How to Submit
-
-
-### The Submission Process
-
-**Step 1: Create Your Clojure Civitas Post**
-
-Create a [Clojure Civitas](https://clojurecivitas.github.io/) post (can be small/draft) showing your creative work.
-
-New to Civitas? Watch Timothy Pratley's 🎥 [tutorial](https://www.youtube.com/watch?v=lceazLPcSZg).
-
-**Step 2: Submit Your Proposal**
-
-Once you have a draft Civitas post, submit your proposal using our form.
-
-
-```{=html}
-<div style="text-align: center; margin: 2rem 0;"><a class="btn btn-gradient" href="https://forms.gle/fLKw58AVC6v7qVY7A" style="font-size: 1.2rem; padding: 1rem 2rem;" target="_blank">Submit Your Proposal</a></div>
-```
-
-
-**Get Feedback Anytime**
-
-Need feedback? Join [#clojure-jam-2026 Zulip](https://clojurians.zulipchat.com/#narrow/channel/544470-clojure-jam-2026) or [contact us](https://scicloj.github.io/docs/community/contact/) anytime.
-
-
-## Proposal Guidelines
-
-
 ### Audience
 
 Aim for general Clojure programmers new to creative coding.
@@ -103,7 +102,7 @@ Aim for general Clojure programmers new to creative coding.
 🛠️ **Make it Reproducible** - Others should be able to recreate and build upon your work
 
 
-## Libraries & Tools
+### Libraries & Tools
 
 We're especially interested in creative uses of:
 
@@ -115,7 +114,7 @@ We're especially interested in creative uses of:
 - Scittle - run Clojure in the browser via SCI
 
 
-## Collaboration Welcome
+### Collaboration Welcome
 
 - Team presentations and cross-disciplinary collaborations encouraged
 - New to speaking? We can help pair you with co-presenters
