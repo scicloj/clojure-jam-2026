@@ -30,6 +30,8 @@
 ;; Clojure Jam celebrates creative expression through code. We're looking for talks and workshops that explore the artistic, musical, and visual possibilities of programming in Clojure.
 ;; 
 ;; Whether you're generating fractals, synthesizing music, visualizing data in new ways, or exploring any other form of creative coding, we want to see what you're building!
+;;
+;; **Note:** Clojure Jam has been postponed to a new date (TBA), but proposals are welcome anytime. Feel free to submit or reach out to brainstorm ideas.
 
 ;; ## Timeline
 
@@ -66,7 +68,7 @@
 
 ;; **Reach out anytime**
 
-;; Need feedback? Join [#clojure-jam-2026 Zulip](https://clojurians.zulipchat.com/#narrow/channel/544470-clojure-jam-2026) or [contact us](https://scicloj.github.io/docs/community/contact/) anytime.
+;; Need feedback? Want to brainstorm ideas? Join [#clojure-jam-2026 Zulip](https://clojurians.zulipchat.com/#narrow/channel/544470-clojure-jam-2026) or [contact us](https://scicloj.github.io/docs/community/contact/) anytime.
 
 ;; ## Proposal Guidelines
 

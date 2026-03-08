@@ -1,5 +1,5 @@
 ^{:kindly/hide-code true
-  :clay {:quarto {:description "Clojure Jam - A Festival of Creative Coding in Clojure - April 2026"
+  :clay {:quarto {:description "Clojure Jam - A Festival of Creative Coding in Clojure"
                   :title-block-style "none"
                   :image "https://scicloj.github.io/clojure-jam/images/sci-cloj-logo-transparent.png"
                   :twitter-card {:title "Clojure Jam 2026"
@@ -37,6 +37,14 @@
 ^:kindly/hide-code
 (kind/hiccup
  [:div
+  ;; Postponement banner
+  [:div {:style "background: #fff3cd; border: 2px solid #ffc107; border-radius: 8px; padding: 1.25rem 1.5rem; margin: 1.5rem 0; text-align: center; font-size: 1.1rem;"}
+   [:strong "📢 Clojure Jam has been postponed."]
+   " New dates will be announced — stay tuned! "
+   "Proposals are still welcome, and we'd love to "
+   [:a {:href "https://scicloj.github.io/docs/community/contact/"} "hear your ideas"]
+   "."]
+
   [:div {:class "main-page"}
 
    ;; Conference intro section
@@ -50,7 +58,7 @@
    [:div {:class "conf-intro__description"}
     "An online creative coding festival organized by "
     [:a {:href "https://scicloj.github.io/"} "Scicloj"]
-    ". Join us in April 2026 for "
+    ". Exploring "
     [:strong "music"] ", " [:strong "generative art"] ", " [:strong "creative visualization"]
     ", and creative expression through code."
 
@@ -73,22 +81,10 @@
 
 ;; ## When & Where
 ;;
-;; - **📅 Date:** April 18-19 & 25-26, 2026
+;; - **📅 Date:** TBA
 ;; - **🌐 Format:** Online via Zoom
 ;; - **💰 Cost:** Free!
 ;; - **🎟️ Registration:** Coming soon
-
-;; ## Timeline
-
-^:kindly/hide-code
-(let [timeline (:timeline conference-data)]
-  (kind/md
-   (str "\n| Event | Date |\n"
-        "|-------|------|\n"
-        "| Call for Proposals | " (:cfp-open timeline) " |\n"
-        "| Submission Deadline | " (:cfp-deadline timeline) " |\n"
-        "| Speaker Notification | " (:speaker-notification timeline) " |\n"
-        "| Festival Dates | " (:festival-dates timeline) " |")))
 
 ;; ## What is Creative Coding?
 
@@ -98,7 +94,7 @@
 
 ;; ## Call for Proposals
 
-;; We're seeking creative coding talks and workshops! Music synthesis, generative art, data visualization, or any creative expression in Clojure.
+;; We're seeking creative coding talks and workshops! Music synthesis, generative art, data visualization, or any creative expression in Clojure. There is no deadline — submit anytime.
 
 ;; See our [Submit Proposal](./speakers.html) page for details on topics, formats, and submission guidelines.
 

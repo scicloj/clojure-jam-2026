@@ -33,7 +33,7 @@
 
 ;; ### Registration (Coming Soon)
 
-;; Registration will open soon! The festival is **free** and **online via Zoom**. Sign up to receive:
+;; Registration will open once new dates are announced. The festival is **free** and **online via Zoom**. Sign up to receive:
 ;;
 ;; - Zoom links for all sessions
 ;; - Schedule updates and announcements
@@ -45,7 +45,7 @@
 
 ;; Connect with fellow creative coders on [Clojurians Zulip](https://scicloj.github.io/docs/community/chat/) in the [#clojure-jam-2026 channel](https://clojurians.zulipchat.com/#narrow/channel/544470-clojure-jam-2026).
 ;;
-;; This is where we'll announce registration details, discuss creative coding techniques, and provide festival support.
+;; This is where we'll announce new dates, discuss creative coding techniques, and provide festival support.
 
 ;; ## For Speakers
 
@@ -76,4 +76,4 @@
 
 ;; ---
 
-;; **See you in April 2026!** 🎨🎵✨
+;; **Stay tuned for new dates!** 🎨🎵✨

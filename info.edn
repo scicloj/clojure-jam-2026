@@ -2,17 +2,17 @@
  {:name "Clojure Jam 2026"
   :tagline "A Festival of Creative Coding in Clojure"
   :year 2026
-  :month "April"
-  :dates ["April 18-19, 2026" "April 25-26, 2026"]
+  :month "TBA"
+  :dates ["TBA"]
   :format :online
   :organizer "Scicloj"
   :organizer-url "https://scicloj.github.io/"}
 
  :timeline
- {:cfp-open "Now open!"
-  :cfp-deadline "February 28, 2026"
-  :speaker-notification "March 15, 2026"
-  :festival-dates "April 18-19 & 25-26, 2026"}
+ {:cfp-open "Open (no deadline)"
+  :cfp-deadline "No deadline — submit anytime"
+  :speaker-notification "TBA"
+  :festival-dates "TBA"}
 
  :goals
  ["Celebrate creative coding in the Clojure community"
