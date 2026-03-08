@@ -73,7 +73,18 @@
   :iain-wood
   {:name "Iain Wood"
    :image "https://scicloj.github.io/macroexpand-2025/images/iain-wood.jpg"
-   :bio ""}} ; TBD
+   :bio ""}
+
+  :rafal-dittwald
+  {:name "Rafal Dittwald"
+   :image "images/rafal-dittwald.jpg"
+   :bio ""} ; TBD
+
+  :jan-wedekind
+  {:name "Jan Wedekind"
+   :image "images/jan-wedekind.png"
+   :bio ""}   ; TBD
+  }
 
  ;; Will be populated as sessions are scheduled
  :sessions {}
